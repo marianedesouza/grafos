@@ -1,0 +1,7 @@
+Grafos são estruturas matemáticas fundamentais que consistem em nós conectados por arestas. No contexto tecnológico, eles são amplamente utilizados em redes e sistemas complexos.
+
+Redes Sociais:
+Grafos são frequentemente empregados na modelagem de redes sociais. Cada usuário pode ser representado como um nó, enquanto as conexões entre eles formam as arestas. Essa representação é valiosa para análises de redes sociais, identificação de comunidades e recomendação de conteúdo personalizado.
+
+Roteamento de Redes de Computadores:
+Algoritmos de grafos, como o algoritmo de Dijkstra, são essenciais para o roteamento em redes de computadores. Neste contexto, os nós podem representar roteadores ou pontos de interconexão, e as arestas representam as conexões entre eles. Esses algoritmos ajudam a determinar caminhos eficientes para transferência de dados em uma rede.
